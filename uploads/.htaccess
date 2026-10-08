@@ -1,0 +1,4 @@
+# Aucun script exécutable dans ce dossier
+php_flag engine off
+RemoveHandler .php .phtml
+Options -Indexes

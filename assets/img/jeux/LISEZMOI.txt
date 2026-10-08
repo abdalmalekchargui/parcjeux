@@ -1,0 +1,12 @@
+Déposez ici les vraies photos des jeux (jpg, jpeg, png ou webp) avec EXACTEMENT ces noms :
+
+  montagnes-russes.jpg
+  grande-roue.jpg
+  autos-tamponneuses.jpg
+  carrousel.jpg
+  maison-hantee.jpg
+  bateau-pirate.jpg
+
+Pour un nouveau jeu : nom du jeu en minuscules, sans accents, espaces remplacés par des tirets (ex. "Train fantôme" -> train-fantome.jpg),
+ou bien le numéro du jeu (ex. 7.jpg).
+Si aucune photo n'existe, l'emoji est affiché comme avant.

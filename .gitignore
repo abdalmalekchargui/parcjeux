@@ -1,0 +1,5 @@
+uploads/*
+!uploads/.gitkeep
+!uploads/.htaccess
+.vscode/
+Thumbs.db
